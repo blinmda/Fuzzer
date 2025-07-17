@@ -1,0 +1,10 @@
+﻿  Functions.cpp
+C:\Users\user\source\repos\fuzzer\fuzzer\Functions.cpp(145,28): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\user\source\repos\fuzzer\fuzzer\Functions.cpp(274,47): warning C4312: приведение типов: преобразование из "DWORD" в "LPCVOID" большего размера
+C:\Users\user\source\repos\fuzzer\fuzzer\Functions.cpp(296,21): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  Fuzzer.cpp
+  main.cpp
+  Создание кода...
+  fuzzer.vcxproj -> C:\Users\user\source\repos\fuzzer\x64\Debug\fuzzer.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
